@@ -35,6 +35,9 @@ Es un programa que utilizara la libreria requests y creare una pokedex.
 
 :heavy_check_mark: `Funcionalidad 4:` Al final del programa mostrara el nombre del pokémon y algunas de sus estadisticas.
 
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/Fernando-p-dlr/Pokedex_M4_python_fer/blob/main/Figure_1.png)
+
+
 ## Herramentas utilizadas
 
 Visual Studio Code
