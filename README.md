@@ -46,7 +46,7 @@ Visual Studio Code
 
 ## Acesso al proyecto
 
-Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/cdimcpython/blob/main/calculadora_IMC.py) 
+Puedes [ver el código fuente del proyecto](https://github.com/Fernando-p-dlr/Pokedex_M4_python_fer/blob/main/pokedex_fernando_M4.py) 
 
 ## Reflexión del curso 
 
